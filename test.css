@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: fixed;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    background: #fffb19;
+    padding: 30px;
+    width: 1000px;
+}
+
+ul {
+    background-color: #9dff9d;
+    padding: 10px 50px;
+    height: 310px;
+    width: 160px;
+}
+
+table th {
+    text-align: center;
+}
+
+.form {
+    background-color: #9bffe9;
+    padding: 30px 105px;
+    height: 270px;
+    width: 590px;
+    margin: 0 auto;
+}
+
+.sousin {
+    text-align: right;
+    padding: 5px 20px;
+}
+
+.object {
+    display: flex;
+}
+
+.footer {
+    background-color: #6b6b6b;
+    padding: 10px 50px;
+    height: 60px;
+    width: 960px;
+}
